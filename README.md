@@ -520,30 +520,15 @@ Potential improvements for future versions include:
 
 ## 📸 Screenshots
 
-Add screenshots of the application here after deploying the project.
+<img width="1906" height="909" alt="image" src="https://github.com/user-attachments/assets/d20a1531-630d-4e2b-ae3b-cd6f6f74b486" />
 
-Example:
-
-```markdown
-![Character Generator](./screenshots/character-generator.png)
-```
-
-Recommended screenshots:
-
-1. Main character generator
-2. Generated character card
-3. AI-generated character portrait
-4. Character history/deck
-5. Mobile responsive interface
-
----
 
 ## 🌐 Live Demo
 
 > Add your deployed application URL here.
 
 ```text
-https://your-demo-url.com
+https://fantasy-character-generator-five.vercel.app/
 ```
 
 ---
