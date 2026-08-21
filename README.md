@@ -525,8 +525,6 @@ Potential improvements for future versions include:
 
 ## 🌐 Live Demo
 
-> Add your deployed application URL here.
-
 ```text
 https://fantasy-character-generator-five.vercel.app/
 ```
